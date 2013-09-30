@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/kr/v3api",
+	"GoVersion": "go version go1.1rc3 darwin/amd64",
+	"Deps": []
+}
